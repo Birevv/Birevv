@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 💫 About Me:
+## 💫 About Me:
 Hello My Name Is Bima Revan Saputra! ✨<br>📍Yogyakarta | Bantul<br>🎓 Student Of SMK Negeri 1 Bantul<br>🌱 Always learning new things in programming 
 
 
-#### 🌐 Connect With Me:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimarevansa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bimspersonality) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bimarevansa2@gmail.com) 
 
-#### 💻 Tech Stack: 
+## 💻 Tech Stack: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img width="12" />
