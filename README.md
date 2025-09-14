@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Epunda+Slab&size=35&pause=1000&color=3AA4FF&width=435&lines=--+Welcome+To+My+Github+--)](https://git.io/typing-svg)
 ## 💫 About Me:
 Hello My Name Is Bima Revan Saputra! ✨<br>📍Yogyakarta | Bantul<br>🎓 Student Of SMK Negeri 1 Bantul<br>🌱 Always learning new things in programming 
