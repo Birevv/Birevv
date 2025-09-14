@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-Hello My Name Is Bima Revan Saputra! ✨<br>📍Yogyakarta | Bantul<br>🎓 Student Of SMK Negeri 1 Bantul<br>🌱 Always learning new things in programming 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C43FF&width=435&lines=Hello+My+Name+Is+Bima+Revan+Saputra+%E2%9C%A8)](https://git.io/typing-svg)<br>📍Yogyakarta | Bantul<br>🎓 Student Of SMK Negeri 1 Bantul<br>🌱 Always learning new things in programming 
 
 
 ## 🌐 Connect With Me:
